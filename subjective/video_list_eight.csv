@@ -1,0 +1,23 @@
+step,video,reference ,DMOS
+5,Tennis_24fps_scaled_1RP.mp4,,
+6,Tennis_24fps_scaled_3RP.mp4,,
+7,BigBuckBunny_25fps_scaled_2RP.mp4,,
+8,BigBuckBunny_25fps_scaled_4RP.mp4,,
+10,CrowdRun_25fps_scaled_0RP.mp4,4.05,
+11,CrowdRun_25fps_scaled_1RP.mp4,1.45,
+12,people_30fps_scaled_0RP_black.mp4,4.13,
+13,people_30fps_scaled_1RP_black.mp4,2.28,
+14,CrowdRun_25fps_scaled_0RP.mp4,4.28,-0.23
+15,CrowdRun_25fps_scaled_1RP.mp4,1.44,2.61
+16,CrowdRun_25fps_scaled_2RP.mp4,2.11,1.95
+17,CrowdRun_25fps_scaled_3RP.mp4,2.99,1.07
+18,CrowdRun_25fps_scaled_4RP.mp4,3.47,0.59
+19,CrowdRun_25fps_scaled_1RP.mp4,1.52,2.53
+20,CrowdRun_25fps_scaled_2RP.mp4,2.2,1.85
+21,people_30fps_scaled_0RP_black.mp4,4.12,0.01
+22,people_30fps_scaled_1RP_black.mp4,2.37,1.76
+23,people_30fps_scaled_2RP_black.mp4,3.45,0.68
+24,people_30fps_scaled_3RP_black.mp4,4.08,0.05
+25,people_30fps_scaled_4RP_black.mp4,4.11,0.03
+26,people_30fps_scaled_3RP_black.mp4,4.13,0
+27,people_30fps_scaled_4RP_black.mp4,4.17,-0.04

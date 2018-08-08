@@ -1,0 +1,13 @@
+step,question,answers
+2,Gender:,1: Female; 2: Male
+2,Age:,1: Under 12 years old; 2: 12-17 years old; 3: 18-24 years old; 4: 25-34 years old; 5: 35-44 years old; 6: 45-54 years old; 7: 55-64 years old; 8: 65-74 years old; 9: 75 years or older
+2,Which continent are you from?,1: America; 2: Europe; 3: Africa; 4: Asia; 5: Oceania
+2,Please select your field of profession:,1: Arts and entertainment; 2: Business; 3: Industrial and manufacturing; 4: Law Enforcement and Armed Forces; 5: Science and technology; 6: Healthcare and medicine; 7: Service; 8: Student; 9: Unemployed; 10: Other field
+3,What kind of streaming services do you mostly use?,1: Free streaming video services; 2: Paid streaming video services
+3,How often do you use video streaming services?,1: Extremely often; 2: Very often; 3: Moderately often; 4: Slightly often; 5: Not at all
+3,In which part of the week do you use video streaming the most?,1: During the week; 2: On weekends; 3: No difference
+3,At what time of day do you mostly use video streaming?,1: Morning; 2: Afternoon; 2: Evening
+3,How many minutes/hours do you usually spend streaming videos at once?,1: 30 minutes or less; 2: more than 30 minutes but less than an hour; 3: more than 1 hour but less than 2 hours; 4: more than 2 hours but less than 3 hours; 5: more than 3 hours but less than 4 hours; 6: more than 4 hours
+3,What is your favorite kind of video streaming content?,1: Sports; 2: Game shows; 3: Science-Fiction; 4: Drama; 5: Talk shows; 6: Comedy; 7: News; 8: Thriller; 9: Reality shows; 10: Musical; 11: Action/adventure; 12: Romance; 13: Horror; 14: Documentary; 15: Cooking; 16: I don't know
+3,What are you predominantly doing while watching streamed video?,1: Surfing in the web; 2: Studying; 3: Relaxing; 4: Cooking; 5: Going to sleep; 6: Traveling
+3,What device do you predominantly use for video streaming?,1: Tablet; 2: TV; 3: Laptop; 4: Phone
